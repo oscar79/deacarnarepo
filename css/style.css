@@ -2271,8 +2271,8 @@ button {
   .bubble ul .ui {
     width: 220px;
     height: 220px;
-    top: 230px;
-    right: -30px;
+    top: 215px;
+    right: -50px;
     background-color: rgba(255, 255, 255, 0.5);
   }
   .bubble ul .branding {
@@ -9428,7 +9428,6 @@ position: absolute;
 	width: 90%;
 	height: 90%;
 }
-
 
 /*-----------------------------------------------------------------------------
    20. Footer
